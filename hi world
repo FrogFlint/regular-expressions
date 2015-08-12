@@ -1,0 +1,4 @@
+$string1 = "Hello World\n"
+if ($string1 =~ m/...../) {
+  print "$string1 has length >= 5\n"
+}
