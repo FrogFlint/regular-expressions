@@ -1,2 +1,2 @@
 # regular-expressions
-regyooler ixpreshins igzamluls
+regyooler ixpreshins igzampuls
